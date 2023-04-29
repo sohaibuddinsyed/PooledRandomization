@@ -1,5 +1,7 @@
 # Pooled Randomization
 
+## Running the application
+This project is a simulation using Erlang to show the results of Pooled Randomization using Blockchain Technology
 
 ## Running the application
 1) Install erlang from https://www.erlang.org/downloads and clone this repository.
