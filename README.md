@@ -1,6 +1,6 @@
 # Pooled Randomization
 
-## Running the application
+## Description
 This project is a simulation using Erlang to show the results of Pooled Randomization using Blockchain Technology
 
 ## Running the application
